@@ -61,7 +61,6 @@ I'm looking forward to exchanging insights and growing together. Thank you!
 - Researched future development directions for commercial bank operations management, focusing on the application of big data and artificial intelligence as well as strategies for managing internet financial risks. Compiled the findings into an analytical report and delivered a PowerPoint presentation.  
 - Assisted the Operations Management Department in financial management, reconciliation, and advisory matters. Communicated with financial managers from enterprises of various sizes to help complete annual corporate reconciliations.  
 - Supported the Risk Management Department by analyzing operational and systemic risks in banking operations management.  
-**Company Website:** [China Minsheng Banking Corp. Shanghai Branch](http://www.cmbc.com.cn/fzjg/shfx/index.htm)
 
 - *Jan 2018 - Feb 2018*, AIA, Finance Intern, Hong Kong  
 **2018 Paramount Financial Program in Hong Kong**  
