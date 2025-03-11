@@ -16,43 +16,68 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+Here's your self-introduction translated into English:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+---
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Hello, my name is Bian Sun. I recently graduated from Carnegie Mellon University with a master's degree in Information Systems Management, specializing in Business Intelligence and Data Analytics. I earned my bachelor's degree from Zhongnan University of Economics and Law, and my first master's degree in Statistics from Wuhan University.
 
+I have nearly four years of professional experience in data analytics, including roles as a Data Analyst at Tencent Wei Shu and a Senior Data Analyst in the e-commerce sector. Additionally, I possess a strong background in finance, having passed the CFA/FRM Level 1 exam and studied financial engineering and cryptocurrency investments extensively.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Technically, I'm proficient in Python and SQL, skilled in data cleaning, ETL processes, data visualization, and familiar with cloud platforms such as Microsoft Azure and AWS SageMaker. In past projects, I was responsible for building data pipelines, analyzing commodity hedging strategies, and studying price volatility, translating data-driven insights into actionable business strategies.
+
+Personally, I am creative and highly curious, passionate about using data to drive effective decision-making and committed to providing efficient and precise solutions. I am particularly interested in emerging technologies such as generative AI, blockchain, and quantum computing, and their transformative impacts on industries.
+
+I'm looking forward to exchanging insights and growing together. Thank you!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Statistical test of financial support policy on the integration trend of the new generation of migrant workers into cities 2016](https://scholar.google.com/citations?user=X1jzJs8AAAAJ&hl=en)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Feb 2018*, Award of Best Global Investment Strategy, Associated with AIA  
+- *Dec 2015*, The 1st Prize of Undergraduate Group, National College Students Mathematical Modeling Competition of Higher Education Club Cup (National level)
+- *May 2015*, The 1st Prize of the 8th Central China University Students Mathematical Modeling Invitational Competition
+- *2015*, Honorable Mention of Mathematical Contests in Modeling (Certificate of Achievement)
+- *2017*, Outstanding Graduate of Zhongnan University of Economics and Law, Zhongnan University of Economics and Law  
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2013.09 - 2017.06*, Zhongnan University of Economics and Law, Dual Bachelor's degrees in Statistics and Finance (Bachelor of Science and Bachelor of Economics)  
+- *2017.09 - 2019.06*, Wuhan University, Master’s in Statistics (Master of Science)  
+- *2023.01 - 2024.08*, Carnegie Mellon University, Master’s in Information Systems – Business Intelligence and Data Analytics Engineering  
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Professional Experience
+- *May 2024 - Aug 2024*, Consultant Data Scientist (Capstone), Acram Group, Pittsburgh, Pennsylvania, United States  
+- *Dec 2021 - May 2023*, Senior Data Analyst, POIZON (Dewu) App, Yangpu District, Shanghai, China  
+- *Apr 2020 - Nov 2021*, Data Analyst, Tencent, Shenzhen, Guangdong, China  
+- *May 2019 - Nov 2019*, Risk Model Specialist, BON BNPP Consumer Finance (formerly Suning Consumer Finance), Nanjing, Jiangsu, China
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *Jul 2018 - Sep 2018*, China Minsheng Banking Corp., Ltd., Internship, Shanghai, China  
+**Bank Management Trainee, Shanghai Branch**  
+- Researched future development directions for commercial bank operations management, focusing on the application of big data and artificial intelligence as well as strategies for managing internet financial risks. Compiled the findings into an analytical report and delivered a PowerPoint presentation.  
+- Assisted the Operations Management Department in financial management, reconciliation, and advisory matters. Communicated with financial managers from enterprises of various sizes to help complete annual corporate reconciliations.  
+- Supported the Risk Management Department by analyzing operational and systemic risks in banking operations management.  
+**Company Website:** [China Minsheng Banking Corp. Shanghai Branch](http://www.cmbc.com.cn/fzjg/shfx/index.htm)
+
+- *Jan 2018 - Feb 2018*, AIA, Finance Intern, Hong Kong  
+**2018 Paramount Financial Program in Hong Kong**  
+- Participated in investment training, mock interviews, and career development sessions.  
+- Gained insights from prominent investment bankers.  
+- Learned quantitative finance concepts.  
+
+- *Jun 2016 - Sep 2016*, Dunhong Capital Management, Internship, Shanghai, China  
+**Fund Assistant**  
+- Interned at a venture capital firm focused on cultural and media industries, working with a management team that has extensive investment experience.  
+- Drafted and organized investment-related documents, participated in due diligence processes and decision-making meetings.  
+- Received training on private equity risk management, as well as legal and regulatory compliance for GPs, LPs, and fund managers.  
+- Gained hands-on experience with internal fund management practices, asset management operations, and product transactions.  
+
+- *Jul 2015 - Sep 2015*, Nanjing Securities Co., Ltd., Summer Internship, Zhenjiang, Jiangsu, China  
+**Trader Assistant**  
+- Used the company’s stock operation system, provided client account services, and assisted customers in opening accounts.  
+- Supported the risk control manager in monitoring compliance for customer accounts.  
+- Developed communication skills through client interactions, gained foundational knowledge of stocks and securities, and acquired a deeper understanding of securities company operations.  
