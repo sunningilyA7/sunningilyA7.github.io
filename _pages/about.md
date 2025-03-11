@@ -16,9 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Here's your self-introduction translated into English:
-
----
 
 Hello, my name is Bian Sun. I recently graduated from Carnegie Mellon University with a master's degree in Information Systems Management, specializing in Business Intelligence and Data Analytics. I earned my bachelor's degree from Zhongnan University of Economics and Law, and my first master's degree in Statistics from Wuhan University.
 
