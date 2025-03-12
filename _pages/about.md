@@ -46,6 +46,7 @@ I'm looking forward to exchanging insights and growing together. Thank you!
 - *2023.01 - 2024.08*, Carnegie Mellon University, Master’s in Information Systems – Business Intelligence and Data Analytics (Master of Engineering)     
 
 # 💬 Professional Experience
+- *Dec 2024 - Present*, Data Scientist, Clinpharma Consulting Global Group, New Jersey
 - *May 2024 - Aug 2024*, Consultant Data Scientist (Capstone), Acram Group, Pittsburgh, Pennsylvania, United States  
 - *Dec 2021 - May 2023*, Senior Data Analyst, POIZON (Dewu) App, Yangpu District, Shanghai, China  
 - *Apr 2020 - Nov 2021*, Data Analyst, Tencent, Shenzhen, Guangdong, China  
