@@ -53,15 +53,15 @@ I'm looking forward to exchanging insights and growing together. Thank you!
 
 
 # 💻 Internships
-- *Jul 2018 - Sep 2018*, China Minsheng Banking Corp., Ltd., Internship, Shanghai, China  
+- *Jul 2018 - Sep 2018*, China Minsheng Banking Corp., Ltd.  Shanghai, China  
 **Bank Management Trainee, Shanghai Branch**  
 
 - *Jan 2018 - Feb 2018*, AIA, Finance Intern, Hong Kong  
 **2018 Paramount Financial Program in Hong Kong**  
 
-- *Jun 2016 - Sep 2016*, Dunhong Capital Management, Internship, Shanghai, China  
+- *Jun 2016 - Sep 2016*, Dunhong Capital Management  Shanghai, China  
 **Fund Assistant**  
 
-- *Jul 2015 - Sep 2015*, Nanjing Securities Co., Ltd., Summer Internship, Zhenjiang, Jiangsu, China  
+- *Jul 2015 - Sep 2015*, Nanjing Securities Co., Ltd. Jiangsu, China  
 **Trader Assistant**  
 
