@@ -19,7 +19,7 @@ redirect_from:
 
 Hello, my name is Bian Sun. I recently graduated from Carnegie Mellon University with a master's degree in Information Systems Management, specializing in Business Intelligence and Data Analytics. I earned my bachelor's degree from Zhongnan University of Economics and Law, and my first master's degree in Statistics from Wuhan University.
 
-I have nearly four years of professional experience in data analytics, including roles as a Data Analyst at Tencent Wei Shu and a Senior Data Analyst in the e-commerce sector. Additionally, I possess a strong background in finance, having passed the CFA/FRM Level 1 exam and studied financial engineering and cryptocurrency investments extensively.
+I have nearly four years of professional experience in data analytics, including roles as a Data Analyst at Tencent Weishi and a Senior Data Analyst in the social content e-commerce company DeWu. Additionally, I possess a strong background in finance, having passed the CFA/FRM Level 1 exam and studied financial engineering and cryptocurrency investments extensively.
 
 Technically, I'm proficient in Python and SQL, skilled in data cleaning, ETL processes, data visualization, and familiar with cloud platforms such as Microsoft Azure and AWS SageMaker. In past projects, I was responsible for building data pipelines, analyzing commodity hedging strategies, and studying price volatility, translating data-driven insights into actionable business strategies.
 
