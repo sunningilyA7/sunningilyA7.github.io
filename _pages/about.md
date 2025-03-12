@@ -55,25 +55,13 @@ I'm looking forward to exchanging insights and growing together. Thank you!
 # 💻 Internships
 - *Jul 2018 - Sep 2018*, China Minsheng Banking Corp., Ltd., Internship, Shanghai, China  
 **Bank Management Trainee, Shanghai Branch**  
-- Researched future development directions for commercial bank operations management, focusing on the application of big data and artificial intelligence as well as strategies for managing internet financial risks. Compiled the findings into an analytical report and delivered a PowerPoint presentation.  
-- Assisted the Operations Management Department in financial management, reconciliation, and advisory matters. Communicated with financial managers from enterprises of various sizes to help complete annual corporate reconciliations.  
-- Supported the Risk Management Department by analyzing operational and systemic risks in banking operations management.  
 
 - *Jan 2018 - Feb 2018*, AIA, Finance Intern, Hong Kong  
 **2018 Paramount Financial Program in Hong Kong**  
-- Participated in investment training, mock interviews, and career development sessions.  
-- Gained insights from prominent investment bankers.  
-- Learned quantitative finance concepts.  
 
 - *Jun 2016 - Sep 2016*, Dunhong Capital Management, Internship, Shanghai, China  
 **Fund Assistant**  
-- Interned at a venture capital firm focused on cultural and media industries, working with a management team that has extensive investment experience.  
-- Drafted and organized investment-related documents, participated in due diligence processes and decision-making meetings.  
-- Received training on private equity risk management, as well as legal and regulatory compliance for GPs, LPs, and fund managers.  
-- Gained hands-on experience with internal fund management practices, asset management operations, and product transactions.  
 
 - *Jul 2015 - Sep 2015*, Nanjing Securities Co., Ltd., Summer Internship, Zhenjiang, Jiangsu, China  
 **Trader Assistant**  
-- Used the company’s stock operation system, provided client account services, and assisted customers in opening accounts.  
-- Supported the risk control manager in monitoring compliance for customer accounts.  
-- Developed communication skills through client interactions, gained foundational knowledge of stocks and securities, and acquired a deeper understanding of securities company operations.  
+
