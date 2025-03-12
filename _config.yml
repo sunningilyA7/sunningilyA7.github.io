@@ -49,15 +49,13 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  kaggle           : https://www.kaggle.com/biansun
   tumblr           :
   twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
-  kaggle           : https://www.kaggle.com/biansun
-
 
 # Reading Files
 include:
