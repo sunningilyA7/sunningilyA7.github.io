@@ -43,7 +43,7 @@ I'm looking forward to exchanging insights and growing together. Thank you!
 # 📖 Educations
 - *2013.09 - 2017.06*, Zhongnan University of Economics and Law, Dual Bachelor's degrees in Statistics and Finance (Bachelor of Science and Bachelor of Economics)  
 - *2017.09 - 2019.06*, Wuhan University, Master’s in Statistics (Master of Science)  
-- *2023.01 - 2024.08*, Carnegie Mellon University, Master’s in Information Systems – Business Intelligence and Data Analytics (Master of Engineering)     
+- *2023.08 - 2024.08*, Carnegie Mellon University, Master’s in Information Systems – Business Intelligence and Data Analytics (Master of Engineering)     
 
 # ✅ Professional Experience
 - *Dec 2024 - Present*, Data Scientist, Clinpharma Consulting Global Group, New Jersey
