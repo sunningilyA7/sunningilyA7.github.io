@@ -34,7 +34,7 @@ I'm looking forward to exchanging insights and growing together. Thank you!
 
 
 # 🎖 Honors and Awards
-- *Feb 2018*, Award of Best Global Investment Strategy, Associated with AIA  
+- *Feb 2018*, Award of Best Global Investment Strategy, Associated with AIA, HongKong
 - *Dec 2015*, The 1st Prize of Undergraduate Group, National College Students Mathematical Modeling Competition of Higher Education Club Cup (National level)
 - *May 2015*, The 1st Prize of the 8th Central China University Students Mathematical Modeling Invitational Competition
 - *2015*, Honorable Mention of Mathematical Contests in Modeling (Certificate of Achievement)
