@@ -76,12 +76,6 @@
 .ai-dataverse-box:before {
   content: "\e817";
 }
-.ai-Tech_Wiki:before {
-  content: "\e818";
-}
-.ai-Tech_Wiki-square:before {
-  content: "\e819";
-}
 .ai-depsy:before {
   content: "\e820";
 }
@@ -207,6 +201,12 @@
 }
 .ai-zotero-square:before {
   content: "\e861";
+}
+.ai-Tech_Wiki:before {
+  content: "\e862";
+}
+.ai-Tech_Wiki-square:before {
+  content: "\e863";
 }
 /*  Duplication of the FontAwesome style classes using 'ai' in place of 'fa'. */
 .ai-lg {
