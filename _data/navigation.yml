@@ -12,6 +12,9 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
+  - title: "Research"
+    url: "/#-research"
+
   - title: "Professional Experience"
     url: "/#-professional-experience"
 
