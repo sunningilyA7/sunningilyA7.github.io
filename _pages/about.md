@@ -19,9 +19,9 @@ redirect_from:
 
 Hello, my name is Bian Sun. I recently graduated from Carnegie Mellon University with a master's degree in Information Systems Management, specializing in Business Intelligence and Data Analytics. I earned my bachelor's degree from Zhongnan University of Economics and Law, and my first master's degree in Statistics from Wuhan University.
 
-I have nearly four years of professional experience in data analytics, including roles as a Data Analyst at Tencent Weishi and a Senior Data Analyst in the social content e-commerce company DeWu. Additionally, I possess a strong background in finance, having passed the CFA/FRM Level 1 exam and studied financial engineering and cryptocurrency investments extensively.
+I have nearly four years of professional experience in Tech area, including roles as a Data Analyst at Tencent Weishi and a Senior Data Analyst in the social content e-commerce company DeWu. Additionally, I possess a strong background in finance quant, having passed the CFA/FRM Level 1 exam and studied financial engineering and cryptocurrency investments extensively.
 
-Technically, I'm proficient in Python and SQL, skilled in data cleaning, ETL processes, data visualization, and familiar with cloud platforms such as Microsoft Azure and AWS SageMaker. In past projects, I was responsible for building data pipelines, analyzing commodity hedging strategies, and studying price volatility, translating data-driven insights into actionable business strategies.
+Technically, I'm proficient in Python Java and SQL, skilled in model optimization, large scale computing, machine/deep learning, data modeling, ETL processes, data visualization, and familiar with cloud platforms such as Microsoft Azure and AWS SageMaker. In past projects, I was responsible for building data, machine pipelines, analyzing commodity hedging strategies, and studying value volatility, translating data-driven insights into actionable business and computing resources strategies.
 
 Personally, I am creative and highly curious, passionate about using data to drive effective decision-making and committed to providing efficient and precise solutions. I am particularly interested in emerging technologies such as generative AI, blockchain, and quantum computing, and their transformative impacts on industries.
 
@@ -46,7 +46,7 @@ I'm looking forward to exchanging insights and growing together. Thank you!
 - *2023.08 - 2024.08*, Carnegie Mellon University, Master’s in Information Systems – Business Intelligence and Data Analytics
 
 # 🚀 Research 
-- *2015.09 - 2017.04*, National Innovation and Entrepreneurship Training Program for College Students - Analysis of Current Situation of Legal Supervision and Risk Prevention and Control Countermeasures of P2P Network Loans
+- *2015.09 - 2017.04*, National Innovation and Entrepreneurship Training Program for College Students - Analysis of Current Situation of Legal Supervision and Risk Prevention and Control Countermeasures of P2P Network Loans 
 - *2014.09 - 2016.04*, University-level Innovation and Entrepreneurship Training Program for Undergraduates - Analysis of the Current Situation of Network Privacy Security in the Era of Big Data and Countermeasures Research
 
 # ✅ Professional Experience
