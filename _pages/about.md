@@ -41,9 +41,9 @@ I'm looking forward to exchanging insights and growing together. Thank you!
 - *2015*, Honorable Mention of Mathematical Contests in Modeling (Certificate of Achievement)🌍
 
 # 📖 Educations
-- *2023.08 - 2024.08*, Carnegie Mellon University, Master’s in Information Systems – Business Intelligence and Data Analytics <img src="https://sunningilyA7.github.io/_pages/cmu_logo.jpg"  style="height:30px; vertical-align:middle;"  >
+- *2023.08 - 2024.08*, Carnegie Mellon University, Master’s in Information Systems – Business Intelligence and Data Analytics<img src="https://sunningilyA7.github.io/_pages/cmu_logo.jpg"  style="height:30px; vertical-align:middle;"  >
 - *2017.09 - 2019.06*, Wuhan University, Master’s in Statistics (Master of Science) <img src="https://sunningilyA7.github.io/_pages/wuhan_logo.png"  style="height:22px; vertical-align:middle;"   > 
-- *2013.09 - 2017.06*, Zhongnan University of Economics and Law, Dual Bachelor's degrees in Statistics and Finance (Bachelor of Science and Bachelor of Economics)<img src="https://sunningilyA7.github.io/_pages/cai_log.jpeg"  style="height:22px; vertical-align:middle;"  >
+- *2013.09 - 2017.06*, Zhongnan University of Economics and Law, Dual Bachelor's degrees in Statistics and Finance (Bachelor of Science and Bachelor of Economics) <img src="https://sunningilyA7.github.io/_pages/cai_log.jpeg"  style="height:22px; vertical-align:middle;"  >
 
 # 🚀 Research 
 - *2015.09 - 2017.04*, National Innovation and Entrepreneurship Training Program for College Students - Analysis of Current Situation of Legal Supervision and Risk Prevention and Control Countermeasures of P2P Network Loans 
