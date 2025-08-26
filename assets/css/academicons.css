@@ -203,11 +203,27 @@
 .ai-zotero-square:before {
   content: "\e861";
 }
+
 .ai-Tech_Wiki:before {
-  content: "\e862";
+    content: "";
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000"><path d="M100 250 L225 750 L350 450 L500 750 L650 450 L775 750 L900 250 L900 200 L100 200 Z" fill="currentColor"/></svg>');
+    background-size: contain;
+    background-repeat: no-repeat;
+    vertical-align: middle;
 }
+
 .ai-Tech_Wiki-square:before {
-  content: "\e863";
+    content: "";
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000"><path d="M100 250 L225 750 L350 450 L500 750 L650 450 L775 750 L900 250 L900 200 L100 200 Z" fill="currentColor"/></svg>');
+    background-size: contain;
+    background-repeat: no-repeat;
+    vertical-align: middle;
 }
 
 /*  Duplication of the FontAwesome style classes using 'ai' in place of 'fa'. */
