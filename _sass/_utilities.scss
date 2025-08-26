@@ -259,7 +259,11 @@ body:hover .visually-hidden button {
   }
 
    
-  .fa-kaggle,
+  .fa-kaggle {
+    color: $kaggle-color;
+  }
+
+   
   .fa-kaggle-square {
     color: $kaggle-color;
   }
