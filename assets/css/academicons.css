@@ -203,11 +203,18 @@
   content: "\e861";
 }
 .ai-Tech_Wiki:before {
+  stroke: currentColor;
+  stroke-width: 20;
+  fill: none;
   content: "\e862";
 }
 .ai-Tech_Wiki-square:before {
+  stroke: currentColor;
+  stroke-width: 20;
+  fill: none;
   content: "\e863";
 }
+
 /*  Duplication of the FontAwesome style classes using 'ai' in place of 'fa'. */
 .ai-lg {
   font-size: 1.33333333em;
