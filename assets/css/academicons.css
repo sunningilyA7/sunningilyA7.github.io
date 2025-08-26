@@ -203,15 +203,9 @@
   content: "\e861";
 }
 .ai-Tech_Wiki:before {
-  stroke: currentColor;
-  stroke-width: 20;
-  fill: none;
   content: "\e862";
 }
 .ai-Tech_Wiki-square:before {
-  stroke: currentColor;
-  stroke-width: 20;
-  fill: none;
   content: "\e863";
 }
 
