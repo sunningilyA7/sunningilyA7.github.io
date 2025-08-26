@@ -34,14 +34,14 @@ I'm looking forward to exchanging insights and growing together. Thank you!
 
 
 # 🎖 Honors and Awards
-- *Feb 2018*, Award of Best Global Investment Strategy, Associated with AIA, HongKong
+- *Feb 2018*, Award of Best Global Investment Strategy, Associated with AIA, HongKong🇭🇰
+- *2017*, Outstanding Graduate of Zhongnan University of Economics and Law, Zhongnan University of Economics and Law  
 - *Dec 2015*, The 1st Prize of Undergraduate Group, National College Students Mathematical Modeling Competition of Higher Education Club Cup (National level)
 - *May 2015*, The 1st Prize of the 8th Central China University Students Mathematical Modeling Invitational Competition
-- *2015*, Honorable Mention of Mathematical Contests in Modeling (Certificate of Achievement)
-- *2017*, Outstanding Graduate of Zhongnan University of Economics and Law, Zhongnan University of Economics and Law  
+- *2015*, Honorable Mention of Mathematical Contests in Modeling (Certificate of Achievement)🌍
 
 # 📖 Educations
-- *2023.08 - 2024.08*, Carnegie Mellon University, Master’s in Information Systems – Business Intelligence and Data Analytics
+- *2023.08 - 2024.08*, Carnegie Mellon University, Master’s in Information Systems – Business Intelligence and Data Analytic s<img src="pages/cmu/logo.jpg" height="16" style="vertical-align:middle;">
 - *2017.09 - 2019.06*, Wuhan University, Master’s in Statistics (Master of Science)  
 - *2013.09 - 2017.06*, Zhongnan University of Economics and Law, Dual Bachelor's degrees in Statistics and Finance (Bachelor of Science and Bachelor of Economics)  
 
