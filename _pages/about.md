@@ -30,7 +30,7 @@ I'm looking forward to exchanging insights and growing together. Thank you!
 # 📝 Publications 
 
 
-[Statistical test of financial support policy on the integration trend of the new generation of migrant workers into cities 2016](https://scholar.google.com/citations?user=X1jzJs8AAAAJ&hl=en)
+[Statistical Test of the Impact of Financial Support Policies on the Urban Integration Trends of the New Generation of Rural-to-Urban Workers](https://scholar.google.com/citations?user=X1jzJs8AAAAJ&hl=en)
 
 
 # 🎖 Honors and Awards
