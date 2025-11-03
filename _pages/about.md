@@ -36,7 +36,7 @@ I'm looking forward to exchanging insights and growing together. Thank you!
 # 🎖 Honors and Awards
 - *Feb 2018*, Award of Best Global Investment Strategy, Associated with AIA, HongKong🇭🇰
 - *2017*, Outstanding Graduate of Zhongnan University of Economics and Law, Zhongnan University of Economics and Law  
-- *Dec 2015*, The 1st Prize of Undergraduate Group, Contemporary Undergraduate Mathematical Contest in Modeling of Higher Education Club Cup (CUMCM, National level）
+- *Dec 2015*, The 1st Prize (National level）, Contemporary Undergraduate Mathematical Contest in Modeling of Higher Education Club Cup (CUMCM）
 - *May 2015*, The 1st Prize of the 8th Central China University Students Mathematical Modeling Invitational Competition
 - *2015*, Honorable Mention of Mathematical Contests in Modeling (Certificate of Achievement)🌍
 
