@@ -37,7 +37,7 @@ I'm looking forward to exchanging insights and growing together. Thank you!
 - *Aug 2024*, Distinction Graduate of Carnegie Mellon University, Master’s in Information Systems, Pittsburgh<img src="https://sunningilyA7.github.io/_pages/cmu_logo.jpg"  style="height:30px; vertical-align:middle;"  >
 - *Feb 2018*, Award of Best Global Investment Strategy, Associated with AIA, HongKong🇭🇰
 - *2017*, Outstanding Graduate of Zhongnan University of Economics and Law, Zhongnan University of Economics and Law  
-- *Dec 2015*, The 1st Prize (National level）, Contemporary Undergraduate Mathematical Contest in Modeling of Higher Education Club Cup (CUMCM）
+- *Dec 2015*, The 1st Prize (National level), Contemporary Undergraduate Mathematical Contest in Modeling of Higher Education Club Cup (CUMCM）
 - *May 2015*, The 1st Prize of the 8th Central China University Students Mathematical Modeling Invitational Competition
 - *2015*, Honorable Mention of Mathematical Contests in Modeling (Certificate of Achievement)🌍
 
@@ -51,7 +51,7 @@ I'm looking forward to exchanging insights and growing together. Thank you!
 - *2014.09 - 2016.04*, University-level Innovation and Entrepreneurship Training Program for Undergraduates - Analysis of the Current Situation of Network Privacy Security in the Era of Big Data and Countermeasures Research
 
 # ✅ Professional Experience
-- *Dec 2024 - Present*, Data Scientist, Clinpharma Consulting Global Group, New Jersey
+- *Dec 2024 - Sep 2025*, Data Scientist, Clinpharma Consulting Global Group, New Jersey
 - *May 2024 - Aug 2024*, Consultant Data Scientist (Capstone), Acram Group, Pittsburgh, Pennsylvania, United States  
 - *Dec 2021 - May 2023*, Senior Data Analyst, POIZON (Dewu) App, Yangpu District, Shanghai, China  
 - *Apr 2020 - Nov 2021*, Data Analyst, Tencent, Shenzhen, Guangdong, China  
