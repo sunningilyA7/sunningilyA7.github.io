@@ -55,7 +55,7 @@ I'm looking forward to exchanging insights and growing together. Thank you!
 - *May 2024 - Aug 2024*, Consultant Data Scientist (Capstone), Acram Group, Pittsburgh, Pennsylvania, United States  
 - *Dec 2021 - May 2023*, Senior Data Analyst, POIZON (Dewu) App, Yangpu District, Shanghai, China  
 - *Apr 2020 - Nov 2021*, Data Analyst, Tencent, Shenzhen, Guangdong, China  
-- *May 2019 - Nov 2019*, Risk Model Specialist, BON BNPP Consumer Finance (formerly Suning Consumer Finance), Nanjing, Jiangsu, China
+- *May 2019 - Nov 2019*, Risk Specialist, BON BNPP Consumer Finance (formerly Suning Consumer Finance), Nanjing, Jiangsu, China
 
 
 # 💻 Internships
