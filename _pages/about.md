@@ -27,7 +27,7 @@ I am Bian Sun, a PhD student in Computer Science at the University of Central Fl
 
 Before joining UCF, I completed two master’s degrees: an M.S. in Information Systems Management at Carnegie Mellon University, specializing in Business Intelligence and Data Analytics, and a master’s degree in Statistics at Wuhan University. I also earned dual bachelor’s degrees in Statistics and Finance from Zhongnan University of Economics and Law, receiving a Bachelor of Science and a Bachelor of Economics.
 
-Before beginning my PhD, I gained nearly four years of industry experience in data analytics and large-scale computing, including positions at Tencent Weishi and Dewu. My professional work included data scientists, machine learning pipelines, ETL, large-scale data processing, and quantitative modeling.
+Before beginning my PhD, I gained nearly four years of industry experience in data analytics and large-scale computing, including positions at Tencent Weishi and Dewu. My professional work included data science, machine learning pipelines, ETL, large-scale data processing, and quantitative modeling.
 
 My technical background includes Python, Java, SQL, machine learning, deep learning, data modeling, cloud computing, and large-scale AI systems. I am broadly interested in developing reliable, efficient, and impactful AI methods for real-world applications.
 
@@ -35,6 +35,7 @@ My technical background includes Python, Java, SQL, machine learning, deep learn
 
 - Large Language Models (LLMs)
 - AI Agents
+- World Model 
 - Evaluation and Alignment
 - Model Efficiency and Compression
 - AI Privacy
