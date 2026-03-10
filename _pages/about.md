@@ -17,36 +17,52 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, my name is Bian Sun. I recently graduated from Carnegie Mellon University with a master's degree in Information Systems Management, specializing in Business Intelligence and Data Analytics. I earned my bachelor's degree from Zhongnan University of Economics and Law, and my first master's degree in Statistics from Wuhan University.
+# Bian Sun
 
-I have nearly four years of professional experience in Tech area, including roles as a Data Analyst at Tencent Weishi and a Senior Data Analyst in the social content e-commerce company DeWu. Additionally, I possess a strong background in finance quant, having passed the CFA/FRM Level 1 exam and studied financial engineering and cryptocurrency investments extensively.
+PhD Student in Computer Science, University of Central Florida
 
-Technically, I'm proficient in Python Java and SQL, skilled in model optimization, large scale computing, machine/deep learning, data modeling, ETL processes, data visualization, and familiar with cloud platforms such as Microsoft Azure and AWS SageMaker. In past projects, I was responsible for building data, machine pipelines that could support large-scale calculation and computing, processing mass data, analyzing commodity/product hedging strategies, and searching value volatility, translating data-driven insights into actionable business and computing resources strategies.
+## About Me
 
-Personally, I am creative and highly curious, passionate about using data to drive effective decision-making and committed to providing efficient and precise solutions. I am particularly interested in emerging technologies such as generative AI, blockchain, and quantum computing, and their transformative impacts on industries.
+I am Bian Sun, a PhD student in Computer Science at the University of Central Florida (UCF), advised by [Professor Zhenyi Wang](https://joey-wang123.github.io/).
 
-I'm looking forward to exchanging insights and growing together. Thank you!
+Before joining UCF, I completed two master’s degrees: an M.S. in Information Systems Management at Carnegie Mellon University, specializing in Business Intelligence and Data Analytics, and a master’s degree in Statistics at Wuhan University. I also earned dual bachelor’s degrees in Statistics and Finance from Zhongnan University of Economics and Law, receiving a Bachelor of Science and a Bachelor of Economics.
+
+Before beginning my PhD, I gained nearly four years of industry experience in data analytics and large-scale computing, including positions at Tencent Weishi and Dewu. My professional work included data analysis, machine learning pipelines, ETL, large-scale data processing, and quantitative modeling.
+
+My technical background includes Python, Java, SQL, machine learning, deep learning, data modeling, cloud computing, and large-scale AI systems. I am broadly interested in developing reliable, efficient, and impactful AI methods for real-world applications.
+
+## 🔬 Research Interests
+
+- Large Language Models (LLMs)
+- AI Agents
+- Evaluation and Alignment
+- Model Optimization and Compression
+- AI Privacy
+- AI for Science (AI4Science)
+- LLM Architecture
+- Clinical NLP
+- Statistics
 
 # 📝 Publications 
 
 ### 2025
 - **[Layer-wise Dynamic Rank for Compressing Large Language Models](https://arxiv.org/abs/2509.25622)** <span class="paper-tag efficiency">LLM Efficiency</span> <span class="paper-tag efficiency">Model Compression</span>
 
-  Z Mi, **B Sun**, GL Zhang, S Huang
+  Zhendong Mi, **Bian Sun**, Grace Li Zhang, Shaoyi Huang
   
   *arXiv preprint*, 2025
 
 ### 2024
 - **[When Metrics Disagree: Automatic Similarity vs. LLM-as-a-Judge for Clinical Dialogue Evaluation](https://arxiv.org/abs/2603.00314)** <span class="paper-tag evaluation">Evaluation</span> <span class="paper-tag clinical">Clinical NLP</span>
 
-  **B Sun**, Z Wang, O de la Torre, Z Wang
+  **Bian Sun**, Zhenjian Wang, Orvill de la Torre, Zirui Wang
   
   *Working paper*, Apr 2024. Posted on arXiv in 2026.
 
 ### 2016
 - **[Statistical Test of the Impact of Financial Support Policies on the Urban Integration Trends of the New Generation of Rural-to-Urban Workers](https://scholar.google.com/citations?user=X1jzJs8AAAAJ&hl=en)** <span class="paper-tag social-science">Statistics</span> <span class="paper-tag social-science">Economics</span>
 
-  **B Sun**
+  **Bian Sun**
   
   *Statistics & Decision*, 14, 96–98, 2016
 
