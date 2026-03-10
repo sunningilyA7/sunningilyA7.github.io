@@ -30,18 +30,20 @@ I'm looking forward to exchanging insights and growing together. Thank you!
 # 📝 Publications 
 
 
+## 📝 Publications
+
 ### 2025
-- **[Layer-wise Dynamic Rank for Compressing Large Language Models](https://arxiv.org/abs/2509.25622)** <span class="paper-tag efficiency">LLM Efficiency</span>
+- **[Layer-wise Dynamic Rank for Compressing Large Language Models](https://arxiv.org/abs/2509.25622)** <span class="paper-tag efficiency">LLM Efficiency</span> <span class="paper-tag efficiency">Model Compression</span>
   Z Mi, **B Sun**, GL Zhang, S Huang  
   *arXiv preprint*, 2025
 
 ### 2024
 - **[When Metrics Disagree: Automatic Similarity vs. LLM-as-a-Judge for Clinical Dialogue Evaluation](https://arxiv.org/abs/2603.00314)** <span class="paper-tag evaluation">Evaluation</span> <span class="paper-tag clinical">Clinical NLP</span>
   **B Sun**, Z Wang, O de la Torre, Z Wang  
-  *Working paper*, 2024. Posted on arXiv in 2026.
+  *Working paper*, Apr 2024. Posted on arXiv in 2026.
 
 ### 2016
-- **[Statistical Test of the Impact of Financial Support Policies...](https://scholar.google.com/citations?user=X1jzJs8AAAAJ&hl=en)** <span class="paper-tag social-science">Statistics</span>
+- **[Statistical Test of the Impact of Financial Support Policies on the Urban Integration Trends of the New Generation of Rural-to-Urban Workers](https://scholar.google.com/citations?user=X1jzJs8AAAAJ&hl=en)** <span class="paper-tag social-science">Statistics</span> <span class="paper-tag social-science">Economics</span>
   **B Sun**  
   *Statistics & Decision*, 14, 96–98, 2016
 
