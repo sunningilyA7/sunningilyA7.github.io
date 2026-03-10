@@ -35,7 +35,7 @@ My technical background includes Python, Java, SQL, machine learning, deep learn
 
 - Large Language Models (LLMs)
 - AI Agents
-- World Model 
+- Foundation Model
 - Evaluation and Alignment
 - Model Efficiency and Compression
 - AI Privacy
