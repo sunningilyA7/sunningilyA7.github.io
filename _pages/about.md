@@ -29,9 +29,6 @@ I'm looking forward to exchanging insights and growing together. Thank you!
 
 # 📝 Publications 
 
-
-## 📝 Publications
-
 ### 2025
 - **[Layer-wise Dynamic Rank for Compressing Large Language Models](https://arxiv.org/abs/2509.25622)** <span class="paper-tag efficiency">LLM Efficiency</span> <span class="paper-tag efficiency">Model Compression</span>
 
