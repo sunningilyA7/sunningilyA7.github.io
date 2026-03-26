@@ -25,7 +25,7 @@ PhD Student in Computer Science, University of Central Florida
 
 I am Bian Sun, a PhD student in Computer Science at the University of Central Florida (UCF), advised by [Professor Zhenyi Wang](https://joey-wang123.github.io/).
 
-Before joining UCF, I completed two master’s degrees: an M.S. in Information Systems Management at Carnegie Mellon University, specializing in Business Intelligence and Data Analytics, and a master’s degree in Statistics at Wuhan University. I also earned dual bachelor’s degrees in Statistics and Finance from Zhongnan University of Economics and Law, receiving a Bachelor of Science and a Bachelor of Economics.
+Before joining UCF, I completed two master’s degrees: an M.S. in Information Systems Management at Carnegie Mellon University, specializing in Business Intelligence and Data Analytics, and a master’s degree in Statistics at Wuhan University. I also earned dual bachelor’s degrees in Statistics and Finance from Zhongnan University of Economics and Law, receiving a Bachelor of Science and a Bachelor of Economics. I also passed the CFA Level 1 and FRM Level 1.
 
 Before beginning my PhD, I gained nearly four years of industry experience in data analytics and large-scale computing, including positions at Tencent Weishi and Dewu. My professional work included data science, machine learning pipelines, ETL, large-scale data processing, and quantitative modeling.
 
