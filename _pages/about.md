@@ -47,7 +47,7 @@ My technical background includes Python, Java, SQL, machine learning, deep learn
 
 # 📝 Publications 
 ### 2026
-- **[Dystruct: Dynamically Structured Diffusion Language Model Decoding via Bayesian Inference](https://arxiv.org/abs/2605.09820)** <span class="paper-tag decoding">Decoding</span> <span class="paper-tag dllm">DLLM</span> <span class="paper-tag training-free">Training Free</span><span class="paper-tag bayesian">Bayesian</span>
+- **[Dystruct: Dynamically Structured Diffusion Language Model Decoding via Bayesian Inference](https://arxiv.org/abs/2605.09820)** <span class="paper-tag bayesian">Bayesian</span><span class="paper-tag decoding">Decoding</span> <span class="paper-tag dllm">DLLM</span> <span class="paper-tag training-free">Training Free</span>
 
   **Bian Sun***, Kevin Zhai*, Mubarak Shah, Zhenyi Wang
 
