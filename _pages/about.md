@@ -51,7 +51,7 @@ My technical background includes Python, Java, SQL, machine learning, deep learn
 
   **Bian Sun***, Kevin Zhai*, Mubarak Shah, Zhenyi Wang
   
-    *arXiv preprint*, 2026
+          *arXiv preprint*, 2026
 
 ### 2025
 - **[Layer-wise Dynamic Rank for Compressing Large Language Models](https://arxiv.org/abs/2509.25622)** <span class="paper-tag efficiency">LLM Efficiency</span> <span class="paper-tag efficiency">Model Compression</span>
