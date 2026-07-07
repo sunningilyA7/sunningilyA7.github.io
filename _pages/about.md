@@ -20,6 +20,7 @@ redirect_from:
 # Bian Sun
 
 PhD Student in Computer Science, University of Central Florida
+👉 **[Click here to view / download my Curriculum Vitae](https://drive.google.com/drive/u/2/my-drive)**
 
 ## About Me
 
