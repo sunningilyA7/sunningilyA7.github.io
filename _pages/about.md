@@ -76,6 +76,7 @@ My technical background includes Python, Java, SQL, machine learning, deep learn
 
 
 # 🎖 Honors and Awards
+- *2026*, Silver Medal, [AI Mathematical Olympiad - Progress Prize 3](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3), Kaggle 🥈
 - *Aug 2024*, Distinction Graduate of Carnegie Mellon University, Master’s in Information Systems, Pittsburgh<img src="https://sunningilyA7.github.io/_pages/cmu_logo.jpg"  style="height:30px; vertical-align:middle;"  >
 - *Feb 2018*, Award of Best Global Investment Strategy, Associated with AIA, HongKong🇭🇰
 - *2017*, Outstanding Graduate of Zhongnan University of Economics and Law, Zhongnan University of Economics and Law  
