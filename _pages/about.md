@@ -92,8 +92,8 @@ My technical background includes Python, Java, SQL, machine learning, deep learn
 
 # ✅ Research and Professional Experience
 - *Jan 2026 - Present*, Graduate Research Assistant, Institute of Artificial Intelligence, University of Central Florida
-- *Jul 2025 – Oct 2025* Research Intern , Stevens Institute of Technology
-- Conducted research on Large Language Model (LLM) compression and inference acceleration in Prof. Shaoyi Huang's lab, focusing on optimizing computational efficiency and reducing memory footprint for foundation models.
+- *Jul 2025 – Oct 2025*,  Research Intern, Stevens Institute of Technology
+Conducted research on Large Language Model (LLM) compression and inference acceleration in Prof. Shaoyi Huang's lab, focusing on optimizing computational efficiency and reducing memory footprint for foundation models.
 - *Dec 2021 - May 2023*, Senior Data Analyst, POIZON (Dewu) App, Yangpu District, Shanghai, China  
 - *Apr 2020 - Nov 2021*, Data Analyst, Tencent, Shenzhen, Guangdong, China  
 - *May 2019 - Nov 2019*, Risk Specialist, BON BNPP Consumer Finance (formerly Suning Consumer Finance), Nanjing, Jiangsu, China
