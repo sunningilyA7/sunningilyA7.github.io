@@ -90,11 +90,10 @@ My technical background includes Python, Java, SQL, machine learning, deep learn
 - *2017.09 - 2019.06*, Wuhan University, Master’s in Statistics (Master of Science) <img src="https://sunningilyA7.github.io/_pages/wuhan_logo.png"  style="height:22px; vertical-align:middle;"   > 
 - *2013.09 - 2017.06*, Zhongnan University of Economics and Law, Dual Bachelor's degrees in Statistics and Finance (Bachelor of Science and Bachelor of Economics) <img src="https://sunningilyA7.github.io/_pages/cai_log.jpeg"  style="height:22px; vertical-align:middle;"  >
 
-# 🚀 Research 
-- *2015.09 - 2017.04*, National Innovation and Entrepreneurship Training Program for College Students - Analysis of Current Situation of Legal Supervision and Risk Prevention and Control Countermeasures of P2P Network Loans 
-- *2014.09 - 2016.04*, University-level Innovation and Entrepreneurship Training Program for Undergraduates - Analysis of the Current Situation of Network Privacy Security in the Era of Big Data and Countermeasures Research
-
-# ✅ Professional Experience
+# ✅ Research and Professional Experience
+- *Jan 2026 - Present*, Graduate Research Assistant, Institute of Artificial Intelligence, University of Central Florida
+- *Jul 2025 – Oct 2025* Research Intern , Stevens Institute of Technology
+- Conducted research on Large Language Model (LLM) compression and inference acceleration in Prof. Shaoyi Huang's lab, focusing on optimizing computational efficiency and reducing memory footprint for foundation models.
 - *Dec 2021 - May 2023*, Senior Data Analyst, POIZON (Dewu) App, Yangpu District, Shanghai, China  
 - *Apr 2020 - Nov 2021*, Data Analyst, Tencent, Shenzhen, Guangdong, China  
 - *May 2019 - Nov 2019*, Risk Specialist, BON BNPP Consumer Finance (formerly Suning Consumer Finance), Nanjing, Jiangsu, China
@@ -117,3 +116,7 @@ My technical background includes Python, Java, SQL, machine learning, deep learn
 - *Jul 2015 - Sep 2015*, Nanjing Securities Co., Ltd. Jiangsu, China  
 **Trader Assistant**  
 
+
+# 🚀 Other Research Projects
+- *2015.09 - 2017.04*, National Innovation and Entrepreneurship Training Program for College Students - Analysis of Current Situation of Legal Supervision and Risk Prevention and Control Countermeasures of P2P Network Loans 
+- *2014.09 - 2016.04*, University-level Innovation and Entrepreneurship Training Program for Undergraduates - Analysis of the Current Situation of Network Privacy Security in the Era of Big Data and Countermeasures Research
