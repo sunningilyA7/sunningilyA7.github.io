@@ -95,14 +95,15 @@ My technical background includes Python, Java, SQL, machine learning, deep learn
 - *2014.09 - 2016.04*, University-level Innovation and Entrepreneurship Training Program for Undergraduates - Analysis of the Current Situation of Network Privacy Security in the Era of Big Data and Countermeasures Research
 
 # ✅ Professional Experience
-- *May 2024 - Aug 2024*, Consultant Data Scientist (Capstone), Acram Group, Pittsburgh, Pennsylvania, United States  
 - *Dec 2021 - May 2023*, Senior Data Analyst, POIZON (Dewu) App, Yangpu District, Shanghai, China  
 - *Apr 2020 - Nov 2021*, Data Analyst, Tencent, Shenzhen, Guangdong, China  
 - *May 2019 - Nov 2019*, Risk Specialist, BON BNPP Consumer Finance (formerly Suning Consumer Finance), Nanjing, Jiangsu, China
 
 
-# 💻 Internships
+# 💻 Internships & Capstone
 - *Dec 2024 - Sep 2025*, Data Scientist Intern, CCGG, New Jersey
+
+- *May 2024 - Aug 2024*, Consultant Data Scientist (Capstone), Acram Group, Pittsburgh, Pennsylvania, United States  
   
 - *Jul 2018 - Sep 2018*, China Minsheng Banking Corp., Ltd.  Shanghai, China  
 **Bank Management Trainee, Shanghai Branch**  
