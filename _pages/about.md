@@ -98,6 +98,9 @@ My technical background includes Python, Java, SQL, machine learning, deep learn
 - *Apr 2020 - Nov 2021*, Data Analyst, Tencent, Shenzhen, Guangdong, China  
 - *May 2019 - Nov 2019*, Risk Specialist, BON BNPP Consumer Finance (formerly Suning Consumer Finance), Nanjing, Jiangsu, China
 
+# 🚀 Other Research Projects
+- *2015.09 - 2017.04*, National Innovation and Entrepreneurship Training Program for College Students - Analysis of Current Situation of Legal Supervision and Risk Prevention and Control Countermeasures of P2P Network Loans 
+- *2014.09 - 2016.04*, University-level Innovation and Entrepreneurship Training Program for Undergraduates - Analysis of the Current Situation of Network Privacy Security in the Era of Big Data and Countermeasures Research
 
 # 💼 Internships & Capstone
 - *Dec 2024 - Sep 2025*, Data Scientist Intern, CCGG, New Jersey
@@ -117,6 +120,3 @@ My technical background includes Python, Java, SQL, machine learning, deep learn
 **Trader Assistant**  
 
 
-# 🚀 Other Research Projects
-- *2015.09 - 2017.04*, National Innovation and Entrepreneurship Training Program for College Students - Analysis of Current Situation of Legal Supervision and Risk Prevention and Control Countermeasures of P2P Network Loans 
-- *2014.09 - 2016.04*, University-level Innovation and Entrepreneurship Training Program for Undergraduates - Analysis of the Current Situation of Network Privacy Security in the Era of Big Data and Countermeasures Research
