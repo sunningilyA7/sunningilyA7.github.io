@@ -169,4 +169,28 @@ h1:before, .anchor:before {
     color: #7d6608;
     border-color: #f9e79f;
   }
+// 👇 新增：PrivMeSA 论文相关标签
+  &.privacy {
+    background-color: #fbeee6; // 柔和浅砖红/珊瑚粉（突出安全性/隐私）
+    color: #873600;
+    border-color: #f5cba7;
+  }
+
+  &.multi-agent {
+    background-color: #ebf5fb; // 协作感淡冰蓝
+    color: #1b4f72;
+    border-color: #aed6f1;
+  }
+
+  &.medical {
+    background-color: #fadbd8; // 医疗健康柔粉/浅桃红
+    color: #78281f;
+    border-color: #f1948a;
+  }
+
+  &.llm {
+    background-color: #f4ecf7; // 优雅淡紫罗兰色
+    color: #512e5f;
+    border-color: #d7bde2;
+  }
 }
