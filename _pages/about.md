@@ -34,17 +34,13 @@ My technical background includes Python, Java, SQL, machine learning, deep learn
 
 ## 🔬 Research Interests
 
-- Large Language Models (LLMs)
-- AI Agents
-- Foundation Model
-- Continual Learning
-- Evaluation and Alignment
-- Model Efficiency and Compression
-- AI Privacy
-- AI for Science (AI4Science)
-- LLM Architecture
-- Clinical NLP
-- Advanced Mathematical Statistics
+- **Core LLM & Foundation Models**: <span style="background-color: #ebf5fb; color: #1b4f72; border: 1px solid #aed6f1; padding: 2px 8px; border-radius: 4px; font-weight: 500;">Large Language Models (LLMs)</span> <span style="background-color: #ebf5fb; color: #1b4f72; border: 1px solid #aed6f1; padding: 2px 8px; border-radius: 4px; font-weight: 500;">Foundation Model</span> <span style="background-color: #ebf5fb; color: #1b4f72; border: 1px solid #aed6f1; padding: 2px 8px; border-radius: 4px; font-weight: 500;">LLM Architecture</span>
+
+- **Autonomous Systems & Adaptation**: <span style="background-color: #e8f8f5; color: #117a65; border: 1px solid #a3e4d7; padding: 2px 8px; border-radius: 4px; font-weight: 500;">AI Agents</span> <span style="background-color: #e8f8f5; color: #117a65; border: 1px solid #a3e4d7; padding: 2px 8px; border-radius: 4px; font-weight: 500;">Continual Learning</span>
+
+- **Safety, Privacy & Efficiency**: <span style="background-color: #f4ecf7; color: #512e5f; border: 1px solid #d7bde2; padding: 2px 8px; border-radius: 4px; font-weight: 500;">Evaluation and Alignment</span> <span style="background-color: #f4ecf7; color: #512e5f; border: 1px solid #d7bde2; padding: 2px 8px; border-radius: 4px; font-weight: 500;">Model Efficiency and Compression</span> <span style="background-color: #f4ecf7; color: #512e5f; border: 1px solid #d7bde2; padding: 2px 8px; border-radius: 4px; font-weight: 500;">AI Privacy</span>
+
+- **AI for Science & Math Foundations**: <span style="background-color: #fef9e7; color: #7d6608; border: 1px solid #f9e79f; padding: 2px 8px; border-radius: 4px; font-weight: 500;">AI for Science (AI4Science)</span> <span style="background-color: #fef9e7; color: #7d6608; border: 1px solid #f9e79f; padding: 2px 8px; border-radius: 4px; font-weight: 500;">Clinical NLP</span> <span style="background-color: #fef9e7; color: #7d6608; border: 1px solid #f9e79f; padding: 2px 8px; border-radius: 4px; font-weight: 500;">Advanced Mathematical Statistics</span>
 
 # 📝 Publications 
 ### 2026
