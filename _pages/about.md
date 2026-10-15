@@ -87,9 +87,11 @@ My technical background includes Python, Java, SQL, machine learning, deep learn
 - *Aug 2024*, Distinction Graduate of Carnegie Mellon University, Master’s in Information Systems, Pittsburgh<img src="https://sunningilyA7.github.io/_pages/cmu_logo.jpg"  style="height:30px; vertical-align:middle;"  >
 - *Feb 2018*, Award of Best Global Investment Strategy, Associated with AIA, HongKong🇭🇰
 - *2017*, Outstanding Graduate of Zhongnan University of Economics and Law, Zhongnan University of Economics and Law  
-- *Dec 2015*, The 1st Prize (National level), Contemporary Undergraduate Mathematical Contest in Modeling of Higher Education Press Cup (CUMCM）
-- *May 2015*, The 1st Prize of the 8th Central China University Students Mathematical Modeling Invitational Competition
+- *Dec 2015*, <strong style="color: #b78103;">The 1st Prize</strong>  (National level), Contemporary Undergraduate Mathematical Contest in Modeling of Higher Education Press Cup (CUMCM）
+- *May 2015*,  <strong style="color: #b78103;">The 1st Prize</strong> of the 8th Central China University Students Mathematical Modeling Invitational Competition
 - *2015*, Honorable Mention of Mathematical Contests in Modeling (Certificate of Achievement)🌍
+- *Dec 2015*, <strong style="color: #b78103;">The 1st Prize</strong> (National level), Contemporary Undergraduate Mathematical Contest in Modeling of Higher Education Press Cup (CUMCM)
+- *2015*, <strong style="color: #2b6cb0;">Honorable Mention</strong> of Mathematical Contests in Modeling (Certificate of Achievement)🌍
 
 # 📖 Educations
 - *2023.08 - 2024.08*, Carnegie Mellon University, Master’s in Information Systems – Business Intelligence and Data Analytics<img src="https://sunningilyA7.github.io/_pages/cmu_logo.jpg"  style="height:30px; vertical-align:middle;"  >
