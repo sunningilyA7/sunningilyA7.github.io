@@ -54,7 +54,7 @@ My technical background includes Python, Java, SQL, machine learning, deep learn
 
   **Bian Sun**<sup>\*</sup>, Kevin Zhai<sup>\*</sup>, Mubarak Shah, Zhenyi Wang
 
-  <strong style="color: #6b21a8;">NeurIPS</strong>, 2026
+  <strong style>NeurIPS</strong>, 2026
 
 ### 2025
 - **[Layer-wise Dynamic Rank for Compressing Large Language Models](https://arxiv.org/abs/2509.25622)** <span class="paper-tag efficiency">LLM Efficiency</span> <span class="paper-tag efficiency">Model Compression</span>
@@ -75,7 +75,7 @@ My technical background includes Python, Java, SQL, machine learning, deep learn
 
   **Bian Sun**
   
-  <strong style="color: #0f766e;">Statistics & Decision</strong>, 14, 96–98, 2016
+  <strong style>Statistics & Decision</strong>, 14, 96–98, 2016
 
 
 # 🎖 Honors and Awards
