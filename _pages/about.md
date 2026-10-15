@@ -48,6 +48,12 @@ My technical background includes Python, Java, SQL, machine learning, deep learn
 
 # 📝 Publications 
 ### 2026
+- **[PrivMeSA: Privacy-Aware Self-Evolving Multi-Agent System for Medicine via Local-Remote LLM Collaboration](https://arxiv.org/abs/2609.38458)** <span class="paper-tag privacy">Privacy</span><span class="paper-tag multi-agent">Multi-Agent</span> <span class="paper-tag medical">Medical</span> <span class="paper-tag llm">LLM</span>
+
+  Dannong Wang, Yuran Zhang, **Bian Sun**, Alex Stinard, Yuzhang Shang, Song Wang, Yu Tian
+
+  *arXiv preprint arXiv:2609.38458*, 2026
+  
 - **[Dystruct: Dynamically Structured Diffusion Language Model Decoding via Bayesian Inference](https://arxiv.org/abs/2605.09820)** <span class="paper-tag bayesian">Bayesian</span><span class="paper-tag decoding">Decoding</span> <span class="paper-tag dllm">DLLM</span> <span class="paper-tag training-free">Training Free</span>
 
   **Bian Sun**<sup>\*</sup>, Kevin Zhai<sup>\*</sup>, Mubarak Shah, Zhenyi Wang
