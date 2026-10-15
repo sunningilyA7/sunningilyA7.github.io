@@ -88,9 +88,7 @@ My technical background includes Python, Java, SQL, machine learning, deep learn
 - *Feb 2018*, Award of Best Global Investment Strategy, Associated with AIA, HongKong🇭🇰
 - *2017*, Outstanding Graduate of Zhongnan University of Economics and Law, Zhongnan University of Economics and Law  
 - *Dec 2015*, <strong style="color: #b78103;">The 1st Prize</strong>  (National level), Contemporary Undergraduate Mathematical Contest in Modeling of Higher Education Press Cup (CUMCM）
-- *May 2015*,  <strong style="color: #b78103;">The 1st Prize</strong> of the 8th Central China University Students Mathematical Modeling Invitational Competition
-- *2015*, Honorable Mention of Mathematical Contests in Modeling (Certificate of Achievement)🌍
-- *Dec 2015*, <strong style="color: #b78103;">The 1st Prize</strong> (National level), Contemporary Undergraduate Mathematical Contest in Modeling of Higher Education Press Cup (CUMCM)
+- *May 2015*, <strong style="color: #b78103;">The 1st Prize</strong> of the 8th Central China University Students Mathematical Modeling Invitational Competition
 - *2015*, <strong style="color: #2b6cb0;">Honorable Mention</strong> of Mathematical Contests in Modeling (Certificate of Achievement)🌍
 
 # 📖 Educations
