@@ -75,7 +75,7 @@ My technical background includes Python, Java, SQL, machine learning, deep learn
 
   **Bian Sun**
   
-  <em style="color: #0f766e;">Statistics & Decision</em>, 14, 96–98, 2016
+  <strong style="color: #0f766e;">Statistics & Decision</strong>, 14, 96–98, 2016
 
 
 # 🎖 Honors and Awards
